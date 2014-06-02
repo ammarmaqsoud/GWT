@@ -1,0 +1,2 @@
+serviceClass: aa.client.GreetingService
+path: 850DB1168DA70CD939C65788D4D8FB15.gwt.rpc
